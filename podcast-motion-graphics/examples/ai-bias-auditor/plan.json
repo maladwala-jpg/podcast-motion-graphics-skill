@@ -1,0 +1,202 @@
+{
+  "title": "Career Moonshots - AI Bias Auditor (motion graphics)",
+  "mode": "replace",
+  "source": "videoplayback.mp4",
+  "audio": null,
+  "transcript": "data/transcript.json",
+  "theme": "theme.json",
+  "width": 1920,
+  "height": 1080,
+  "captions": {
+    "enabled": true,
+    "bottom": 45,
+    "size": 37,
+    "max_chars": 52,
+    "wrap": 90
+  },
+  "caption_fixes": [
+    [
+      "data set",
+      "dataset"
+    ],
+    [
+      "Beginner Safe",
+      "beginner-safe,"
+    ]
+  ],
+  "transitions": {
+    "host": "slats",
+    "styles": [
+      "iris",
+      "bars",
+      "diag",
+      "tiles",
+      "slats",
+      "iris",
+      "bars",
+      "diag",
+      "tiles",
+      "slats"
+    ],
+    "colors": [
+      "#C96F3F",
+      "#7D5038",
+      "#E8943A",
+      "#C96F3F",
+      "#2B2019",
+      "#E8943A",
+      "#C96F3F",
+      "#7D5038",
+      "#E8943A",
+      "#C96F3F"
+    ]
+  },
+  "segments": [
+    {
+      "id": "A",
+      "start_frame": 3285,
+      "end_frame": 6245,
+      "scenes": [
+        {
+          "id": "A1",
+          "start": 109.5,
+          "theme": "light"
+        },
+        {
+          "id": "A2",
+          "start": 120.1,
+          "theme": "dark"
+        },
+        {
+          "id": "A3",
+          "start": 135.7,
+          "theme": "light"
+        },
+        {
+          "id": "A4",
+          "start": 149.6,
+          "theme": "light"
+        },
+        {
+          "id": "A5a",
+          "start": 168.15,
+          "theme": "light"
+        },
+        {
+          "id": "A5b",
+          "start": 178.8,
+          "theme": "dark"
+        },
+        {
+          "id": "A6",
+          "start": 186.35,
+          "theme": "light"
+        },
+        {
+          "id": "A7",
+          "start": 197.0,
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "start_frame": 6466,
+      "end_frame": 9508,
+      "scenes": [
+        {
+          "id": "B1",
+          "start": 215.5333,
+          "theme": "light"
+        },
+        {
+          "id": "B2",
+          "start": 223.35,
+          "theme": "dark"
+        },
+        {
+          "id": "B3",
+          "start": 232.88,
+          "theme": "light"
+        },
+        {
+          "id": "B4",
+          "start": 240.22,
+          "theme": "dark"
+        },
+        {
+          "id": "B5",
+          "start": 249.86,
+          "theme": "light"
+        },
+        {
+          "id": "B6",
+          "start": 258.67,
+          "theme": "dark"
+        },
+        {
+          "id": "B7",
+          "start": 268.52,
+          "theme": "light"
+        },
+        {
+          "id": "B8",
+          "start": 280.83,
+          "theme": "dark"
+        },
+        {
+          "id": "B9",
+          "start": 291.27,
+          "theme": "light"
+        },
+        {
+          "id": "B10",
+          "start": 300.22,
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "id": "C",
+      "start_frame": 9833,
+      "end_frame": 11708,
+      "scenes": [
+        {
+          "id": "C1",
+          "start": 327.7667,
+          "theme": "light"
+        },
+        {
+          "id": "C2",
+          "start": 332.05,
+          "theme": "light"
+        },
+        {
+          "id": "C3",
+          "start": 342.38,
+          "theme": "dark"
+        },
+        {
+          "id": "C4",
+          "start": 349.54,
+          "theme": "light"
+        },
+        {
+          "id": "C5",
+          "start": 358.48,
+          "theme": "dark"
+        },
+        {
+          "id": "C6",
+          "start": 368.12,
+          "theme": "light"
+        },
+        {
+          "id": "C7",
+          "start": 384.56,
+          "theme": "dark"
+        }
+      ]
+    }
+  ]
+}

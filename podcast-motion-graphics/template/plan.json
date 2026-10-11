@@ -1,0 +1,28 @@
+{
+  "title": "Episode title (becomes the MP4 title tag)",
+  "mode": "replace",
+  "source": "source.mp4",
+  "audio": null,
+  "transcript": "data/transcript.json",
+  "theme": "theme.json",
+  "width": 1920,
+  "height": 1080,
+  "captions": { "enabled": true, "bottom": 45, "size": 37, "max_chars": 52, "wrap": 90 },
+  "caption_fixes": [],
+  "transitions": {
+    "host": "slats",
+    "styles": ["iris", "bars", "diag", "tiles", "slats"],
+    "colors": ["primary", "dark", "secondary", "primary", "dark"]
+  },
+  "segments": [
+    {
+      "id": "A",
+      "start_frame": 0,
+      "end_frame": 900,
+      "scenes": [
+        { "id": "A1", "start": 0.0, "theme": "light" },
+        { "id": "A2", "start": 15.0, "theme": "dark" }
+      ]
+    }
+  ]
+}

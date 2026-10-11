@@ -1,0 +1,52 @@
+/* Base look. Colours come from css/theme.css (generated from theme.json by scripts/build_data.py):
+   --primary --secondary --tertiary --quaternary --dark --light --danger --highlight --accent-light --ink --paper --card-dark
+   Legacy aliases (--terra, --amber, --teal, --walnut, --espresso, --cream, --red) are kept so older scenes keep working. */
+@font-face{font-family:'Fraunces';src:url('../node_modules/@fontsource-variable/fraunces/files/fraunces-latin-full-normal.woff2') format('woff2');font-weight:100 900;font-style:normal}
+@font-face{font-family:'Fraunces';src:url('../node_modules/@fontsource-variable/fraunces/files/fraunces-latin-full-italic.woff2') format('woff2');font-weight:100 900;font-style:italic}
+@font-face{font-family:'InterV';src:url('../node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2') format('woff2');font-weight:100 900;font-style:normal}
+@font-face{font-family:'Caveat';src:url('../node_modules/@fontsource/caveat/files/caveat-latin-700-normal.woff2') format('woff2');font-weight:700}
+:root{
+  --terra:var(--primary);--terra2:var(--primary-d);--amber:var(--secondary);--teal:var(--tertiary);--teal2:var(--tertiary-d);
+  --walnut:var(--quaternary);--espresso:var(--dark);--cream:var(--light);--red:var(--danger);--sw:1920px;--sh:1080px;
+  --cap-bottom:45px;--cap-size:37px;--cap-maxw:1640px;
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:#000;overflow:hidden}
+#stage{position:relative;width:var(--sw);height:var(--sh);overflow:hidden;font-family:'InterV',Inter,system-ui,sans-serif;color:var(--fg)}
+.theme-light{--fg:var(--ink);--fg2:var(--quaternary);--card:var(--paper);--cardfg:var(--ink);--grid:color-mix(in srgb,var(--quaternary) 7.5%,transparent);--muted:color-mix(in srgb,var(--ink) 55%,transparent);--hair:color-mix(in srgb,var(--quaternary) 18%,transparent)}
+.theme-dark{--fg:var(--light);--fg2:var(--highlight);--card:var(--card-dark);--cardfg:var(--light);--grid:color-mix(in srgb,var(--secondary) 5.5%,transparent);--muted:color-mix(in srgb,var(--light) 58%,transparent);--hair:color-mix(in srgb,var(--light) 16%,transparent)}
+#bg{position:absolute;inset:0}
+.theme-light #bg{background:
+  radial-gradient(60% 65% at 18% 12%,rgba(255,255,255,.75),rgba(255,255,255,0) 60%),
+  radial-gradient(52% 74% at 90% 100%,color-mix(in srgb,var(--primary) 10%,transparent),transparent 60%),
+  linear-gradient(180deg,var(--bg-light-1),var(--bg-light-2))}
+.theme-dark #bg{background:
+  radial-gradient(57% 65% at 20% 10%,color-mix(in srgb,var(--secondary) 14%,transparent),transparent 60%),
+  radial-gradient(47% 65% at 95% 100%,color-mix(in srgb,var(--tertiary) 10%,transparent),transparent 60%),
+  linear-gradient(180deg,var(--bg-dark-1),var(--bg-dark-2))}
+#grid{position:absolute;inset:-60px;background-image:linear-gradient(var(--grid) 2px,transparent 2px),linear-gradient(90deg,var(--grid) 2px,transparent 2px);background-size:60px 60px}
+#vig{position:absolute;inset:0;background:radial-gradient(ellipse at 50% 45%,rgba(0,0,0,0) 55%,rgba(60,30,10,.12) 100%);pointer-events:none}
+#cam{position:absolute;inset:0;transform-origin:50% 45%}
+#content,#amb{position:absolute;inset:0}
+.acc{color:var(--acc)}
+.x{position:relative}
+#caps{position:absolute;inset:0;pointer-events:none}
+#trans{position:absolute;inset:0;pointer-events:none}
+.abs{position:absolute}
+.serif{font-family:'Fraunces',Georgia,serif;font-variation-settings:'opsz' 144,'SOFT' 50}
+.sans{font-family:'InterV',system-ui,sans-serif}
+.hand{font-family:'Caveat',cursive;font-weight:700}
+.t{white-space:nowrap;line-height:1.05;letter-spacing:-.01em}
+.t .w{display:inline-block;will-change:transform,opacity}
+.hl{background:linear-gradient(transparent 58%,var(--hlc,color-mix(in srgb,var(--secondary) 55%,transparent)) 58% 92%,transparent 92%);background-size:0% 100%;background-repeat:no-repeat;border-radius:4px;padding:0 .08em}
+.card{position:absolute;background:var(--card);color:var(--cardfg);border-radius:26px;
+  box-shadow:0 2px 0 rgba(255,255,255,.55) inset,0 1px 0 rgba(125,80,56,.10),0 30px 60px -22px rgba(60,30,10,.45),0 10px 22px -10px rgba(60,30,10,.30)}
+.theme-dark .card{box-shadow:0 0 0 2px color-mix(in srgb,var(--secondary) 22%,transparent) inset,0 30px 60px -20px rgba(0,0,0,.6),0 10px 22px -10px rgba(0,0,0,.5)}
+.card.solid{background:var(--dark);color:var(--light);box-shadow:0 0 0 3px color-mix(in srgb,var(--secondary) 55%,transparent) inset,0 30px 60px -22px rgba(30,12,0,.6),0 10px 22px -10px rgba(30,12,0,.4)}
+.theme-dark .card.solid{background:var(--light);color:var(--ink);box-shadow:0 30px 60px -20px rgba(0,0,0,.6)}
+.chip{position:absolute;display:flex;align-items:center;justify-content:center}
+.pillbtn{position:absolute;display:flex;align-items:center;gap:12px;padding:12px 24px;border-radius:999px;font:700 30px/1 'InterV';white-space:nowrap}
+.lbl{font:700 30px/1.1 'InterV';letter-spacing:-.01em}
+svg{overflow:visible}
+/* Caption pill — mirrors the burned-in captions of the host shots (near-black rounded box, white bold sans). Tune via plan.json "captions". */
+#caps .pill{position:absolute;left:50%;bottom:var(--cap-bottom);transform:translateX(-50%);background:rgba(22,19,18,.93);color:#fff;font:700 var(--cap-size)/1.22 'InterV';padding:.51em .86em;border-radius:.4em;text-align:center;white-space:pre;max-width:var(--cap-maxw);opacity:0;visibility:hidden}

@@ -1,0 +1,10 @@
+{
+  "name": "warm-studio",
+  "_help": "Six colours are enough; everything else is derived (see scripts/theme_util.py). primary = main accent, secondary = second accent, tertiary = contrasting accent, quaternary = deep shade used for text/shadows, dark = dark-scene base, light = light-scene base. Run `python3 scripts/analyze_video.py palette <video>` to get a draft sampled from the video itself.",
+  "primary": "#C96F3F",
+  "secondary": "#E8943A",
+  "tertiary": "#2FAFA3",
+  "quaternary": "#7D5038",
+  "dark": "#2B2019",
+  "light": "#F6ECDF"
+}

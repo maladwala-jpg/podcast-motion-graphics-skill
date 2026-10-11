@@ -1,0 +1,280 @@
+{
+  "title": "Career Moonshots - The Autonomous SOC Orchestrator (motion graphics)",
+  "mode": "replace",
+  "source": "CM - SOC.mp4",
+  "audio": null,
+  "transcript": "data/transcript.json",
+  "theme": "theme.json",
+  "width": 1920,
+  "height": 1080,
+  "captions": {
+    "enabled": true,
+    "bottom": 45,
+    "size": 37,
+    "max_chars": 52,
+    "wrap": 90
+  },
+  "caption_fixes": [
+    [
+      "data set",
+      "dataset"
+    ],
+    [
+      "^beginner does not",
+      "A beginner does not"
+    ],
+    [
+      "^Write an escalation",
+      "Step three: write an escalation"
+    ]
+  ],
+  "transitions": {
+    "host": "slats",
+    "styles": [
+      "iris",
+      "bars",
+      "diag",
+      "tiles",
+      "slats",
+      "iris",
+      "bars",
+      "diag",
+      "tiles",
+      "slats"
+    ],
+    "colors": [
+      "primary",
+      "quaternary",
+      "secondary",
+      "primary",
+      "dark",
+      "secondary",
+      "primary",
+      "quaternary",
+      "secondary",
+      "primary"
+    ]
+  },
+  "segments": [
+    {
+      "id": "T",
+      "insert_at_frame": 1392,
+      "duration": 3.0,
+      "scenes": [
+        {
+          "id": "T1",
+          "theme": "dark",
+          "wipe_speed": 0.6
+        }
+      ]
+    },
+    {
+      "id": "A",
+      "start_frame": 3008,
+      "end_frame": 5296,
+      "scenes": [
+        {
+          "id": "A1",
+          "start": 100.2667,
+          "theme": "light"
+        },
+        {
+          "id": "A2",
+          "start": 110.5,
+          "theme": "dark"
+        },
+        {
+          "id": "A3",
+          "start": 121.6,
+          "theme": "light"
+        },
+        {
+          "id": "A4",
+          "start": 131.9,
+          "theme": "dark"
+        },
+        {
+          "id": "A5",
+          "start": 135.9,
+          "theme": "light"
+        },
+        {
+          "id": "A6",
+          "start": 151.2,
+          "theme": "dark"
+        },
+        {
+          "id": "A7",
+          "start": 160.6,
+          "theme": "light"
+        },
+        {
+          "id": "A8",
+          "start": 167.65,
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "start_frame": 5597,
+      "end_frame": 7323,
+      "scenes": [
+        {
+          "id": "B1",
+          "start": 186.5667,
+          "theme": "light"
+        },
+        {
+          "id": "B2",
+          "start": 197.2,
+          "theme": "dark"
+        },
+        {
+          "id": "B3",
+          "start": 207.8,
+          "theme": "light"
+        },
+        {
+          "id": "B4",
+          "start": 222.5,
+          "theme": "dark"
+        },
+        {
+          "id": "B5",
+          "start": 237.85,
+          "theme": "light"
+        }
+      ]
+    },
+    {
+      "id": "C",
+      "start_frame": 7926,
+      "end_frame": 9818,
+      "scenes": [
+        {
+          "id": "C1",
+          "start": 264.2,
+          "theme": "light"
+        },
+        {
+          "id": "C2",
+          "start": 272.8,
+          "theme": "dark"
+        },
+        {
+          "id": "C3",
+          "start": 280.15,
+          "theme": "light"
+        },
+        {
+          "id": "C4",
+          "start": 291.7,
+          "theme": "dark"
+        },
+        {
+          "id": "C5",
+          "start": 301.1,
+          "theme": "light",
+          "end_slack": 0.3
+        },
+        {
+          "id": "C6",
+          "start_frame": 9240,
+          "theme": "dark",
+          "word_slack": 0.4
+        },
+        {
+          "id": "C7",
+          "start": 316.06,
+          "theme": "light"
+        },
+        {
+          "id": "C8",
+          "start": 322.9,
+          "theme": "dark",
+          "transition_out": "dissolve"
+        }
+      ],
+      "in_still_from_edit": "hold1"
+    }
+  ],
+  "overlays": [
+    {
+      "id": "hostpanel",
+      "type": "host_panel",
+      "scenes": [
+        "C6",
+        "C7",
+        "C8"
+      ],
+      "crop": {
+        "x": 250,
+        "y": 0,
+        "w": 173,
+        "h": 308
+      },
+      "rect": {
+        "x": 1317,
+        "y": 36,
+        "w": 567,
+        "h": 1008
+      },
+      "radius": 36,
+      "delay": 0.5,
+      "fade_in": 0.4,
+      "fade_out": 0.35,
+      "ring": true,
+      "content_margin": 60,
+      "caption_max_chars": 64
+    }
+  ],
+  "edits": [
+    {
+      "id": "hold1",
+      "type": "hold",
+      "anchor_frame": 7905,
+      "drop_to_frame": 7926,
+      "extra_seconds": 5.0,
+      "window": 8,
+      "zoom": 0.02,
+      "push_in": {
+        "to": 1.2,
+        "seconds": 1.1,
+        "center": [
+          0.5,
+          0.03
+        ]
+      }
+    },
+    {
+      "id": "hold2",
+      "type": "hold",
+      "anchor_frame": 10170,
+      "drop_to_frame": 10184,
+      "extra_seconds": 5.0,
+      "window": 2,
+      "zoom": 0.0,
+      "push_in": {
+        "to": 1.07,
+        "seconds": 5.4,
+        "center": [
+          0.5,
+          0.2
+        ]
+      }
+    }
+  ],
+  "sound": {
+    "level": {
+      "target_lufs": -15,
+      "max_gain_db": 20,
+      "min_gain_db": -15,
+      "true_peak_db": -1.5
+    },
+    "sting": {
+      "gain_db": -8
+    }
+  },
+  "host_source": "out/host_master.mp4"
+}

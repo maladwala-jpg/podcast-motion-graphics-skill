@@ -1,0 +1,4023 @@
+[
+ {
+  "start": 0.0,
+  "end": 2.22,
+  "text": "Welcome back to Career Moonshots.",
+  "words": [
+   {
+    "w": " Welcome",
+    "s": 0.0,
+    "e": 0.5
+   },
+   {
+    "w": " back",
+    "s": 0.5,
+    "e": 0.96
+   },
+   {
+    "w": " to",
+    "s": 0.96,
+    "e": 1.28
+   },
+   {
+    "w": " Career",
+    "s": 1.28,
+    "e": 1.6
+   },
+   {
+    "w": " Moonshots.",
+    "s": 1.6,
+    "e": 2.22
+   }
+  ]
+ },
+ {
+  "start": 3.1,
+  "end": 6.92,
+  "text": "Today, we are opening another student-friendly career mission.",
+  "words": [
+   {
+    "w": " Today,",
+    "s": 3.1,
+    "e": 3.42
+   },
+   {
+    "w": " we",
+    "s": 3.8,
+    "e": 3.92
+   },
+   {
+    "w": " are",
+    "s": 3.92,
+    "e": 4.04
+   },
+   {
+    "w": " opening",
+    "s": 4.04,
+    "e": 4.46
+   },
+   {
+    "w": " another",
+    "s": 4.46,
+    "e": 5.0
+   },
+   {
+    "w": " student",
+    "s": 5.0,
+    "e": 5.54
+   },
+   {
+    "w": "-friendly",
+    "s": 5.54,
+    "e": 6.06
+   },
+   {
+    "w": " career",
+    "s": 6.06,
+    "e": 6.46
+   },
+   {
+    "w": " mission.",
+    "s": 6.46,
+    "e": 6.92
+   }
+  ]
+ },
+ {
+  "start": 7.64,
+  "end": 13.46,
+  "text": "One clear idea, one future skill, and one practical step you can try.",
+  "words": [
+   {
+    "w": " One",
+    "s": 7.64,
+    "e": 7.88
+   },
+   {
+    "w": " clear",
+    "s": 7.88,
+    "e": 8.26
+   },
+   {
+    "w": " idea,",
+    "s": 8.26,
+    "e": 8.8
+   },
+   {
+    "w": " one",
+    "s": 9.34,
+    "e": 9.7
+   },
+   {
+    "w": " future",
+    "s": 9.7,
+    "e": 10.2
+   },
+   {
+    "w": " skill,",
+    "s": 10.2,
+    "e": 10.64
+   },
+   {
+    "w": " and",
+    "s": 11.08,
+    "e": 11.32
+   },
+   {
+    "w": " one",
+    "s": 11.32,
+    "e": 11.7
+   },
+   {
+    "w": " practical",
+    "s": 11.7,
+    "e": 12.2
+   },
+   {
+    "w": " step",
+    "s": 12.2,
+    "e": 12.64
+   },
+   {
+    "w": " you",
+    "s": 12.64,
+    "e": 12.92
+   },
+   {
+    "w": " can",
+    "s": 12.92,
+    "e": 13.08
+   },
+   {
+    "w": " try.",
+    "s": 13.08,
+    "e": 13.46
+   }
+  ]
+ },
+ {
+  "start": 14.3,
+  "end": 17.48,
+  "text": "Let us make the future feel easier to understand.",
+  "words": [
+   {
+    "w": " Let",
+    "s": 14.3,
+    "e": 14.54
+   },
+   {
+    "w": " us",
+    "s": 14.54,
+    "e": 14.7
+   },
+   {
+    "w": " make",
+    "s": 14.7,
+    "e": 14.9
+   },
+   {
+    "w": " the",
+    "s": 14.9,
+    "e": 15.1
+   },
+   {
+    "w": " future",
+    "s": 15.1,
+    "e": 15.54
+   },
+   {
+    "w": " feel",
+    "s": 15.54,
+    "e": 15.94
+   },
+   {
+    "w": " easier",
+    "s": 15.94,
+    "e": 16.48
+   },
+   {
+    "w": " to",
+    "s": 16.48,
+    "e": 16.84
+   },
+   {
+    "w": " understand.",
+    "s": 16.84,
+    "e": 17.48
+   }
+  ]
+ },
+ {
+  "start": 17.94,
+  "end": 20.9,
+  "text": "An automated security tool raises an alarm.",
+  "words": [
+   {
+    "w": " An",
+    "s": 17.94,
+    "e": 18.12
+   },
+   {
+    "w": " automated",
+    "s": 18.12,
+    "e": 18.6
+   },
+   {
+    "w": " security",
+    "s": 18.6,
+    "e": 19.12
+   },
+   {
+    "w": " tool",
+    "s": 19.12,
+    "e": 19.64
+   },
+   {
+    "w": " raises",
+    "s": 19.64,
+    "e": 20.24
+   },
+   {
+    "w": " an",
+    "s": 20.24,
+    "e": 20.52
+   },
+   {
+    "w": " alarm.",
+    "s": 20.52,
+    "e": 20.9
+   }
+  ]
+ },
+ {
+  "start": 21.42,
+  "end": 25.36,
+  "text": "Is it spotting an intruder or about to interrupt someone's normal work?",
+  "words": [
+   {
+    "w": " Is",
+    "s": 21.42,
+    "e": 21.52
+   },
+   {
+    "w": " it",
+    "s": 21.52,
+    "e": 21.66
+   },
+   {
+    "w": " spotting",
+    "s": 21.66,
+    "e": 22.02
+   },
+   {
+    "w": " an",
+    "s": 22.02,
+    "e": 22.22
+   },
+   {
+    "w": " intruder",
+    "s": 22.22,
+    "e": 22.62
+   },
+   {
+    "w": " or",
+    "s": 22.62,
+    "e": 23.2
+   },
+   {
+    "w": " about",
+    "s": 23.2,
+    "e": 23.48
+   },
+   {
+    "w": " to",
+    "s": 23.48,
+    "e": 23.66
+   },
+   {
+    "w": " interrupt",
+    "s": 23.66,
+    "e": 24.1
+   },
+   {
+    "w": " someone's",
+    "s": 24.1,
+    "e": 24.64
+   },
+   {
+    "w": " normal",
+    "s": 24.64,
+    "e": 24.94
+   },
+   {
+    "w": " work?",
+    "s": 24.94,
+    "e": 25.36
+   }
+  ]
+ },
+ {
+  "start": 25.36,
+  "end": 31.82,
+  "text": "That is a question a faster computer cannot settle just by producing more alerts.",
+  "words": [
+   {
+    "w": " That",
+    "s": 25.36,
+    "e": 26.4
+   },
+   {
+    "w": " is",
+    "s": 26.4,
+    "e": 26.64
+   },
+   {
+    "w": " a",
+    "s": 26.64,
+    "e": 26.84
+   },
+   {
+    "w": " question",
+    "s": 26.84,
+    "e": 27.18
+   },
+   {
+    "w": " a",
+    "s": 27.18,
+    "e": 27.5
+   },
+   {
+    "w": " faster",
+    "s": 27.5,
+    "e": 27.9
+   },
+   {
+    "w": " computer",
+    "s": 27.9,
+    "e": 28.4
+   },
+   {
+    "w": " cannot",
+    "s": 28.4,
+    "e": 28.9
+   },
+   {
+    "w": " settle",
+    "s": 28.9,
+    "e": 29.4
+   },
+   {
+    "w": " just",
+    "s": 29.4,
+    "e": 30.06
+   },
+   {
+    "w": " by",
+    "s": 30.06,
+    "e": 30.38
+   },
+   {
+    "w": " producing",
+    "s": 30.38,
+    "e": 30.84
+   },
+   {
+    "w": " more",
+    "s": 30.84,
+    "e": 31.2
+   },
+   {
+    "w": " alerts.",
+    "s": 31.2,
+    "e": 31.82
+   }
+  ]
+ },
+ {
+  "start": 33.38,
+  "end": 38.46,
+  "text": "Discover how junior security analysts check evidence alongside experienced colleagues",
+  "words": [
+   {
+    "w": " Discover",
+    "s": 33.38,
+    "e": 33.42
+   },
+   {
+    "w": " how",
+    "s": 33.42,
+    "e": 33.76
+   },
+   {
+    "w": " junior",
+    "s": 33.76,
+    "e": 34.14
+   },
+   {
+    "w": " security",
+    "s": 34.14,
+    "e": 34.72
+   },
+   {
+    "w": " analysts",
+    "s": 34.72,
+    "e": 35.38
+   },
+   {
+    "w": " check",
+    "s": 35.38,
+    "e": 35.94
+   },
+   {
+    "w": " evidence",
+    "s": 35.94,
+    "e": 36.5
+   },
+   {
+    "w": " alongside",
+    "s": 36.5,
+    "e": 36.94
+   },
+   {
+    "w": " experienced",
+    "s": 36.94,
+    "e": 37.88
+   },
+   {
+    "w": " colleagues",
+    "s": 37.88,
+    "e": 38.46
+   }
+  ]
+ },
+ {
+  "start": 38.46,
+  "end": 41.1,
+  "text": "where an emerging orchestration role fits,",
+  "words": [
+   {
+    "w": " where",
+    "s": 38.46,
+    "e": 39.12
+   },
+   {
+    "w": " an",
+    "s": 39.12,
+    "e": 39.24
+   },
+   {
+    "w": " emerging",
+    "s": 39.24,
+    "e": 39.7
+   },
+   {
+    "w": " orchestration",
+    "s": 39.7,
+    "e": 40.44
+   },
+   {
+    "w": " role",
+    "s": 40.44,
+    "e": 40.74
+   },
+   {
+    "w": " fits,",
+    "s": 40.74,
+    "e": 41.1
+   }
+  ]
+ },
+ {
+  "start": 41.6,
+  "end": 46.1,
+  "text": "and how you can practice the same reasoning safely with offline sample logs.",
+  "words": [
+   {
+    "w": " and",
+    "s": 41.6,
+    "e": 41.86
+   },
+   {
+    "w": " how",
+    "s": 41.86,
+    "e": 42.08
+   },
+   {
+    "w": " you",
+    "s": 42.08,
+    "e": 42.22
+   },
+   {
+    "w": " can",
+    "s": 42.22,
+    "e": 42.4
+   },
+   {
+    "w": " practice",
+    "s": 42.4,
+    "e": 42.8
+   },
+   {
+    "w": " the",
+    "s": 42.8,
+    "e": 43.04
+   },
+   {
+    "w": " same",
+    "s": 43.04,
+    "e": 43.26
+   },
+   {
+    "w": " reasoning",
+    "s": 43.26,
+    "e": 43.72
+   },
+   {
+    "w": " safely",
+    "s": 43.72,
+    "e": 44.26
+   },
+   {
+    "w": " with",
+    "s": 44.26,
+    "e": 44.68
+   },
+   {
+    "w": " offline",
+    "s": 44.68,
+    "e": 45.22
+   },
+   {
+    "w": " sample",
+    "s": 45.22,
+    "e": 45.7
+   },
+   {
+    "w": " logs.",
+    "s": 45.7,
+    "e": 46.1
+   }
+  ]
+ },
+ {
+  "start": 46.7,
+  "end": 50.2,
+  "text": "Hi, I am Dr. Elena Vane. Welcome to Career Moonshots.",
+  "words": [
+   {
+    "w": " Hi,",
+    "s": 46.7,
+    "e": 47.02
+   },
+   {
+    "w": " I",
+    "s": 47.26,
+    "e": 47.46
+   },
+   {
+    "w": " am",
+    "s": 47.46,
+    "e": 47.58
+   },
+   {
+    "w": " Dr.",
+    "s": 47.58,
+    "e": 47.9
+   },
+   {
+    "w": " Elena",
+    "s": 48.2,
+    "e": 48.2
+   },
+   {
+    "w": " Vane.",
+    "s": 48.2,
+    "e": 48.56
+   },
+   {
+    "w": " Welcome",
+    "s": 48.92,
+    "e": 49.1
+   },
+   {
+    "w": " to",
+    "s": 49.1,
+    "e": 49.38
+   },
+   {
+    "w": " Career",
+    "s": 49.38,
+    "e": 49.62
+   },
+   {
+    "w": " Moonshots.",
+    "s": 49.62,
+    "e": 50.2
+   }
+  ]
+ },
+ {
+  "start": 50.2,
+  "end": 54.66,
+  "text": "I am an investigative researcher who has shifted from traditional reporting",
+  "words": [
+   {
+    "w": " I",
+    "s": 50.2,
+    "e": 51.16
+   },
+   {
+    "w": " am",
+    "s": 51.16,
+    "e": 51.28
+   },
+   {
+    "w": " an",
+    "s": 51.28,
+    "e": 51.38
+   },
+   {
+    "w": " investigative",
+    "s": 51.38,
+    "e": 51.98
+   },
+   {
+    "w": " researcher",
+    "s": 51.98,
+    "e": 52.5
+   },
+   {
+    "w": " who",
+    "s": 52.5,
+    "e": 52.92
+   },
+   {
+    "w": " has",
+    "s": 52.92,
+    "e": 53.12
+   },
+   {
+    "w": " shifted",
+    "s": 53.12,
+    "e": 53.38
+   },
+   {
+    "w": " from",
+    "s": 53.38,
+    "e": 53.66
+   },
+   {
+    "w": " traditional",
+    "s": 53.66,
+    "e": 54.14
+   },
+   {
+    "w": " reporting",
+    "s": 54.14,
+    "e": 54.66
+   }
+  ]
+ },
+ {
+  "start": 54.66,
+  "end": 57.54,
+  "text": "to testing and explaining future foresight research.",
+  "words": [
+   {
+    "w": " to",
+    "s": 54.66,
+    "e": 55.1
+   },
+   {
+    "w": " testing",
+    "s": 55.1,
+    "e": 55.5
+   },
+   {
+    "w": " and",
+    "s": 55.5,
+    "e": 55.76
+   },
+   {
+    "w": " explaining",
+    "s": 55.76,
+    "e": 56.26
+   },
+   {
+    "w": " future",
+    "s": 56.26,
+    "e": 56.62
+   },
+   {
+    "w": " foresight",
+    "s": 56.62,
+    "e": 57.08
+   },
+   {
+    "w": " research.",
+    "s": 57.08,
+    "e": 57.54
+   }
+  ]
+ },
+ {
+  "start": 58.52,
+  "end": 62.84,
+  "text": "I will help turn big career ideas into simple, useful steps for students.",
+  "words": [
+   {
+    "w": " I",
+    "s": 58.52,
+    "e": 58.52
+   },
+   {
+    "w": " will",
+    "s": 58.52,
+    "e": 58.66
+   },
+   {
+    "w": " help",
+    "s": 58.66,
+    "e": 58.88
+   },
+   {
+    "w": " turn",
+    "s": 58.88,
+    "e": 59.16
+   },
+   {
+    "w": " big",
+    "s": 59.16,
+    "e": 59.46
+   },
+   {
+    "w": " career",
+    "s": 59.46,
+    "e": 59.82
+   },
+   {
+    "w": " ideas",
+    "s": 59.82,
+    "e": 60.36
+   },
+   {
+    "w": " into",
+    "s": 60.36,
+    "e": 60.74
+   },
+   {
+    "w": " simple,",
+    "s": 60.74,
+    "e": 61.2
+   },
+   {
+    "w": " useful",
+    "s": 61.36,
+    "e": 61.62
+   },
+   {
+    "w": " steps",
+    "s": 61.62,
+    "e": 62.06
+   },
+   {
+    "w": " for",
+    "s": 62.06,
+    "e": 62.42
+   },
+   {
+    "w": " students.",
+    "s": 62.42,
+    "e": 62.84
+   }
+  ]
+ },
+ {
+  "start": 63.34,
+  "end": 67.78,
+  "text": "Hey, I'm Jules Rossi, and I'm here to find what's next before it becomes what's now.",
+  "words": [
+   {
+    "w": " Hey,",
+    "s": 63.34,
+    "e": 63.74
+   },
+   {
+    "w": " I'm",
+    "s": 63.9,
+    "e": 64.12
+   },
+   {
+    "w": " Jules",
+    "s": 64.12,
+    "e": 64.36
+   },
+   {
+    "w": " Rossi,",
+    "s": 64.36,
+    "e": 64.68
+   },
+   {
+    "w": " and",
+    "s": 65.12,
+    "e": 65.18
+   },
+   {
+    "w": " I'm",
+    "s": 65.18,
+    "e": 65.36
+   },
+   {
+    "w": " here",
+    "s": 65.36,
+    "e": 65.54
+   },
+   {
+    "w": " to",
+    "s": 65.54,
+    "e": 65.74
+   },
+   {
+    "w": " find",
+    "s": 65.74,
+    "e": 65.92
+   },
+   {
+    "w": " what's",
+    "s": 65.92,
+    "e": 66.2
+   },
+   {
+    "w": " next",
+    "s": 66.2,
+    "e": 66.42
+   },
+   {
+    "w": " before",
+    "s": 66.42,
+    "e": 66.74
+   },
+   {
+    "w": " it",
+    "s": 66.74,
+    "e": 66.88
+   },
+   {
+    "w": " becomes",
+    "s": 66.88,
+    "e": 67.18
+   },
+   {
+    "w": " what's",
+    "s": 67.18,
+    "e": 67.5
+   },
+   {
+    "w": " now.",
+    "s": 67.5,
+    "e": 67.78
+   }
+  ]
+ },
+ {
+  "start": 68.3,
+  "end": 72.08,
+  "text": "Hi, I am Rohan Das. I represent the student voice in this conversation.",
+  "words": [
+   {
+    "w": " Hi,",
+    "s": 68.3,
+    "e": 68.52
+   },
+   {
+    "w": " I",
+    "s": 68.62,
+    "e": 68.76
+   },
+   {
+    "w": " am",
+    "s": 68.76,
+    "e": 68.9
+   },
+   {
+    "w": " Rohan",
+    "s": 68.9,
+    "e": 69.16
+   },
+   {
+    "w": " Das.",
+    "s": 69.16,
+    "e": 69.4
+   },
+   {
+    "w": " I",
+    "s": 69.66,
+    "e": 69.82
+   },
+   {
+    "w": " represent",
+    "s": 69.82,
+    "e": 70.22
+   },
+   {
+    "w": " the",
+    "s": 70.22,
+    "e": 70.42
+   },
+   {
+    "w": " student",
+    "s": 70.42,
+    "e": 70.78
+   },
+   {
+    "w": " voice",
+    "s": 70.78,
+    "e": 71.1
+   },
+   {
+    "w": " in",
+    "s": 71.1,
+    "e": 71.38
+   },
+   {
+    "w": " this",
+    "s": 71.38,
+    "e": 71.58
+   },
+   {
+    "w": " conversation.",
+    "s": 71.58,
+    "e": 72.08
+   }
+  ]
+ },
+ {
+  "start": 72.88,
+  "end": 77.72,
+  "text": "I will try to ask the questions that are on your mind to see if this career fits with your thinking.",
+  "words": [
+   {
+    "w": " I",
+    "s": 72.88,
+    "e": 73.06
+   },
+   {
+    "w": " will",
+    "s": 73.06,
+    "e": 73.18
+   },
+   {
+    "w": " try",
+    "s": 73.18,
+    "e": 73.36
+   },
+   {
+    "w": " to",
+    "s": 73.36,
+    "e": 73.52
+   },
+   {
+    "w": " ask",
+    "s": 73.52,
+    "e": 73.72
+   },
+   {
+    "w": " the",
+    "s": 73.72,
+    "e": 73.92
+   },
+   {
+    "w": " questions",
+    "s": 73.92,
+    "e": 74.28
+   },
+   {
+    "w": " that",
+    "s": 74.28,
+    "e": 74.58
+   },
+   {
+    "w": " are",
+    "s": 74.58,
+    "e": 74.84
+   },
+   {
+    "w": " on",
+    "s": 74.84,
+    "e": 75.08
+   },
+   {
+    "w": " your",
+    "s": 75.08,
+    "e": 75.26
+   },
+   {
+    "w": " mind",
+    "s": 75.26,
+    "e": 75.52
+   },
+   {
+    "w": " to",
+    "s": 75.52,
+    "e": 75.98
+   },
+   {
+    "w": " see",
+    "s": 75.98,
+    "e": 76.16
+   },
+   {
+    "w": " if",
+    "s": 76.16,
+    "e": 76.28
+   },
+   {
+    "w": " this",
+    "s": 76.28,
+    "e": 76.46
+   },
+   {
+    "w": " career",
+    "s": 76.46,
+    "e": 76.76
+   },
+   {
+    "w": " fits",
+    "s": 76.76,
+    "e": 77.02
+   },
+   {
+    "w": " with",
+    "s": 77.02,
+    "e": 77.28
+   },
+   {
+    "w": " your",
+    "s": 77.28,
+    "e": 77.44
+   },
+   {
+    "w": " thinking.",
+    "s": 77.44,
+    "e": 77.72
+   }
+  ]
+ },
+ {
+  "start": 77.72,
+  "end": 81.92,
+  "text": "I'll give you practical ideas and field missions for you to try out.",
+  "words": [
+   {
+    "w": " I'll",
+    "s": 77.72,
+    "e": 78.6
+   },
+   {
+    "w": " give",
+    "s": 78.6,
+    "e": 78.74
+   },
+   {
+    "w": " you",
+    "s": 78.74,
+    "e": 78.92
+   },
+   {
+    "w": " practical",
+    "s": 78.92,
+    "e": 79.26
+   },
+   {
+    "w": " ideas",
+    "s": 79.26,
+    "e": 79.72
+   },
+   {
+    "w": " and",
+    "s": 79.72,
+    "e": 80.16
+   },
+   {
+    "w": " field",
+    "s": 80.16,
+    "e": 80.42
+   },
+   {
+    "w": " missions",
+    "s": 80.42,
+    "e": 80.74
+   },
+   {
+    "w": " for",
+    "s": 80.74,
+    "e": 81.06
+   },
+   {
+    "w": " you",
+    "s": 81.06,
+    "e": 81.24
+   },
+   {
+    "w": " to",
+    "s": 81.24,
+    "e": 81.4
+   },
+   {
+    "w": " try",
+    "s": 81.4,
+    "e": 81.6
+   },
+   {
+    "w": " out.",
+    "s": 81.6,
+    "e": 81.92
+   }
+  ]
+ },
+ {
+  "start": 82.52,
+  "end": 87.96,
+  "text": "Welcome to Career Moonshots. Today, we are unpacking an emerging functional track,",
+  "words": [
+   {
+    "w": " Welcome",
+    "s": 82.52,
+    "e": 82.72
+   },
+   {
+    "w": " to",
+    "s": 82.72,
+    "e": 83.1
+   },
+   {
+    "w": " Career",
+    "s": 83.1,
+    "e": 83.48
+   },
+   {
+    "w": " Moonshots.",
+    "s": 83.48,
+    "e": 84.28
+   },
+   {
+    "w": " Today,",
+    "s": 85.04,
+    "e": 85.3
+   },
+   {
+    "w": " we",
+    "s": 85.56,
+    "e": 85.62
+   },
+   {
+    "w": " are",
+    "s": 85.62,
+    "e": 85.76
+   },
+   {
+    "w": " unpacking",
+    "s": 85.76,
+    "e": 86.3
+   },
+   {
+    "w": " an",
+    "s": 86.3,
+    "e": 86.6
+   },
+   {
+    "w": " emerging",
+    "s": 86.6,
+    "e": 87.06
+   },
+   {
+    "w": " functional",
+    "s": 87.06,
+    "e": 87.56
+   },
+   {
+    "w": " track,",
+    "s": 87.56,
+    "e": 87.96
+   }
+  ]
+ },
+ {
+  "start": 88.5,
+  "end": 91.18,
+  "text": "the Autonomous Security Operations Center Orchestrator.",
+  "words": [
+   {
+    "w": " the",
+    "s": 88.5,
+    "e": 88.62
+   },
+   {
+    "w": " Autonomous",
+    "s": 88.62,
+    "e": 88.98
+   },
+   {
+    "w": " Security",
+    "s": 88.98,
+    "e": 89.4
+   },
+   {
+    "w": " Operations",
+    "s": 89.4,
+    "e": 89.98
+   },
+   {
+    "w": " Center",
+    "s": 89.98,
+    "e": 90.52
+   },
+   {
+    "w": " Orchestrator.",
+    "s": 90.52,
+    "e": 91.18
+   }
+  ]
+ },
+ {
+  "start": 91.84,
+  "end": 96.42,
+  "text": "In traditional defensive security, a SOC is the central watchtower",
+  "words": [
+   {
+    "w": " In",
+    "s": 91.84,
+    "e": 92.08
+   },
+   {
+    "w": " traditional",
+    "s": 92.08,
+    "e": 92.54
+   },
+   {
+    "w": " defensive",
+    "s": 92.54,
+    "e": 92.92
+   },
+   {
+    "w": " security,",
+    "s": 92.92,
+    "e": 93.64
+   },
+   {
+    "w": " a",
+    "s": 94.14,
+    "e": 94.16
+   },
+   {
+    "w": " SOC",
+    "s": 94.16,
+    "e": 94.66
+   },
+   {
+    "w": " is",
+    "s": 94.66,
+    "e": 95.28
+   },
+   {
+    "w": " the",
+    "s": 95.28,
+    "e": 95.48
+   },
+   {
+    "w": " central",
+    "s": 95.48,
+    "e": 95.84
+   },
+   {
+    "w": " watchtower",
+    "s": 95.84,
+    "e": 96.42
+   }
+  ]
+ },
+ {
+  "start": 96.42,
+  "end": 99.18,
+  "text": "where analysts monitor networks for intrusions.",
+  "words": [
+   {
+    "w": " where",
+    "s": 96.42,
+    "e": 96.94
+   },
+   {
+    "w": " analysts",
+    "s": 96.94,
+    "e": 97.4
+   },
+   {
+    "w": " monitor",
+    "s": 97.4,
+    "e": 97.94
+   },
+   {
+    "w": " networks",
+    "s": 97.94,
+    "e": 98.38
+   },
+   {
+    "w": " for",
+    "s": 98.38,
+    "e": 98.68
+   },
+   {
+    "w": " intrusions.",
+    "s": 98.68,
+    "e": 99.18
+   }
+  ]
+ },
+ {
+  "start": 100.34,
+  "end": 103.34,
+  "text": "The big shift is how routine tasks get handled.",
+  "words": [
+   {
+    "w": " The",
+    "s": 100.34,
+    "e": 100.5
+   },
+   {
+    "w": " big",
+    "s": 100.5,
+    "e": 100.76
+   },
+   {
+    "w": " shift",
+    "s": 100.76,
+    "e": 101.14
+   },
+   {
+    "w": " is",
+    "s": 101.14,
+    "e": 101.38
+   },
+   {
+    "w": " how",
+    "s": 101.38,
+    "e": 101.64
+   },
+   {
+    "w": " routine",
+    "s": 101.64,
+    "e": 102.12
+   },
+   {
+    "w": " tasks",
+    "s": 102.12,
+    "e": 102.64
+   },
+   {
+    "w": " get",
+    "s": 102.64,
+    "e": 102.9
+   },
+   {
+    "w": " handled.",
+    "s": 102.9,
+    "e": 103.34
+   }
+  ]
+ },
+ {
+  "start": 103.34,
+  "end": 110.1,
+  "text": "Historically, entry-level analysts spend hours manually triaging repetitive alerts.",
+  "words": [
+   {
+    "w": " Historically,",
+    "s": 103.34,
+    "e": 104.86
+   },
+   {
+    "w": " entry",
+    "s": 105.5,
+    "e": 105.76
+   },
+   {
+    "w": "-level",
+    "s": 105.76,
+    "e": 105.98
+   },
+   {
+    "w": " analysts",
+    "s": 105.98,
+    "e": 106.52
+   },
+   {
+    "w": " spend",
+    "s": 106.52,
+    "e": 106.86
+   },
+   {
+    "w": " hours",
+    "s": 106.86,
+    "e": 107.48
+   },
+   {
+    "w": " manually",
+    "s": 107.48,
+    "e": 108.26
+   },
+   {
+    "w": " triaging",
+    "s": 108.26,
+    "e": 108.98
+   },
+   {
+    "w": " repetitive",
+    "s": 108.98,
+    "e": 109.5
+   },
+   {
+    "w": " alerts.",
+    "s": 109.5,
+    "e": 110.1
+   }
+  ]
+ },
+ {
+  "start": 111.04,
+  "end": 117.36,
+  "text": "Automated agents are increasingly taking on that initial triage layer, changing the baseline workflow.",
+  "words": [
+   {
+    "w": " Automated",
+    "s": 111.04,
+    "e": 111.48
+   },
+   {
+    "w": " agents",
+    "s": 111.48,
+    "e": 111.9
+   },
+   {
+    "w": " are",
+    "s": 111.9,
+    "e": 112.12
+   },
+   {
+    "w": " increasingly",
+    "s": 112.12,
+    "e": 112.64
+   },
+   {
+    "w": " taking",
+    "s": 112.64,
+    "e": 113.16
+   },
+   {
+    "w": " on",
+    "s": 113.16,
+    "e": 113.46
+   },
+   {
+    "w": " that",
+    "s": 113.46,
+    "e": 113.64
+   },
+   {
+    "w": " initial",
+    "s": 113.64,
+    "e": 114.04
+   },
+   {
+    "w": " triage",
+    "s": 114.04,
+    "e": 114.56
+   },
+   {
+    "w": " layer,",
+    "s": 114.56,
+    "e": 114.96
+   },
+   {
+    "w": " changing",
+    "s": 115.52,
+    "e": 116.0
+   },
+   {
+    "w": " the",
+    "s": 116.0,
+    "e": 116.26
+   },
+   {
+    "w": " baseline",
+    "s": 116.26,
+    "e": 116.7
+   },
+   {
+    "w": " workflow.",
+    "s": 116.7,
+    "e": 117.36
+   }
+  ]
+ },
+ {
+  "start": 118.06,
+  "end": 121.16,
+  "text": "That is where the emerging role begins to take shape.",
+  "words": [
+   {
+    "w": " That",
+    "s": 118.06,
+    "e": 118.32
+   },
+   {
+    "w": " is",
+    "s": 118.32,
+    "e": 118.5
+   },
+   {
+    "w": " where",
+    "s": 118.5,
+    "e": 118.72
+   },
+   {
+    "w": " the",
+    "s": 118.72,
+    "e": 118.9
+   },
+   {
+    "w": " emerging",
+    "s": 118.9,
+    "e": 119.3
+   },
+   {
+    "w": " role",
+    "s": 119.3,
+    "e": 119.68
+   },
+   {
+    "w": " begins",
+    "s": 119.68,
+    "e": 120.16
+   },
+   {
+    "w": " to",
+    "s": 120.16,
+    "e": 120.38
+   },
+   {
+    "w": " take",
+    "s": 120.38,
+    "e": 120.56
+   },
+   {
+    "w": " shape.",
+    "s": 120.56,
+    "e": 121.16
+   }
+  ]
+ },
+ {
+  "start": 122.06,
+  "end": 127.14,
+  "text": "Rather than manually copying log entries, an orchestrator assists in monitoring,",
+  "words": [
+   {
+    "w": " Rather",
+    "s": 122.06,
+    "e": 122.26
+   },
+   {
+    "w": " than",
+    "s": 122.26,
+    "e": 122.58
+   },
+   {
+    "w": " manually",
+    "s": 122.58,
+    "e": 122.92
+   },
+   {
+    "w": " copying",
+    "s": 122.92,
+    "e": 123.38
+   },
+   {
+    "w": " log",
+    "s": 123.38,
+    "e": 123.66
+   },
+   {
+    "w": " entries,",
+    "s": 123.66,
+    "e": 124.14
+   },
+   {
+    "w": " an",
+    "s": 124.94,
+    "e": 125.0
+   },
+   {
+    "w": " orchestrator",
+    "s": 125.0,
+    "e": 125.8
+   },
+   {
+    "w": " assists",
+    "s": 125.8,
+    "e": 126.4
+   },
+   {
+    "w": " in",
+    "s": 126.4,
+    "e": 126.68
+   },
+   {
+    "w": " monitoring,",
+    "s": 126.68,
+    "e": 127.14
+   }
+  ]
+ },
+ {
+  "start": 127.74,
+  "end": 131.44,
+  "text": "auditing, and testing the software agents that flag anomalies.",
+  "words": [
+   {
+    "w": " auditing,",
+    "s": 127.74,
+    "e": 128.18
+   },
+   {
+    "w": " and",
+    "s": 128.74,
+    "e": 128.88
+   },
+   {
+    "w": " testing",
+    "s": 128.88,
+    "e": 129.24
+   },
+   {
+    "w": " the",
+    "s": 129.24,
+    "e": 129.48
+   },
+   {
+    "w": " software",
+    "s": 129.48,
+    "e": 129.84
+   },
+   {
+    "w": " agents",
+    "s": 129.84,
+    "e": 130.3
+   },
+   {
+    "w": " that",
+    "s": 130.3,
+    "e": 130.64
+   },
+   {
+    "w": " flag",
+    "s": 130.64,
+    "e": 130.96
+   },
+   {
+    "w": " anomalies.",
+    "s": 130.96,
+    "e": 131.44
+   }
+  ]
+ },
+ {
+  "start": 132.44,
+  "end": 134.94,
+  "text": "Let us look at realistic qualifications.",
+  "words": [
+   {
+    "w": " Let",
+    "s": 132.36,
+    "e": 132.84
+   },
+   {
+    "w": " us",
+    "s": 132.84,
+    "e": 133.04
+   },
+   {
+    "w": " look",
+    "s": 133.04,
+    "e": 133.26
+   },
+   {
+    "w": " at",
+    "s": 133.26,
+    "e": 133.46
+   },
+   {
+    "w": " realistic",
+    "s": 133.46,
+    "e": 134.1
+   },
+   {
+    "w": " qualifications.",
+    "s": 134.1,
+    "e": 134.94
+   }
+  ]
+ },
+ {
+  "start": 136.82,
+  "end": 139.86,
+  "text": "Entry requirements vary widely across the industry.",
+  "words": [
+   {
+    "w": " Entry",
+    "s": 136.82,
+    "e": 136.98
+   },
+   {
+    "w": " requirements",
+    "s": 136.98,
+    "e": 137.68
+   },
+   {
+    "w": " vary",
+    "s": 137.68,
+    "e": 138.04
+   },
+   {
+    "w": " widely",
+    "s": 138.04,
+    "e": 138.64
+   },
+   {
+    "w": " across",
+    "s": 138.64,
+    "e": 139.08
+   },
+   {
+    "w": " the",
+    "s": 139.08,
+    "e": 139.34
+   },
+   {
+    "w": " industry.",
+    "s": 139.34,
+    "e": 139.86
+   }
+  ]
+ },
+ {
+  "start": 140.98,
+  "end": 143.58,
+  "text": "Many employers look for computer science degrees,",
+  "words": [
+   {
+    "w": " Many",
+    "s": 140.98,
+    "e": 141.1
+   },
+   {
+    "w": " employers",
+    "s": 141.1,
+    "e": 141.66
+   },
+   {
+    "w": " look",
+    "s": 141.66,
+    "e": 141.96
+   },
+   {
+    "w": " for",
+    "s": 141.96,
+    "e": 142.22
+   },
+   {
+    "w": " computer",
+    "s": 142.22,
+    "e": 142.52
+   },
+   {
+    "w": " science",
+    "s": 142.52,
+    "e": 143.0
+   },
+   {
+    "w": " degrees,",
+    "s": 143.0,
+    "e": 143.58
+   }
+  ]
+ },
+ {
+  "start": 144.02,
+  "end": 150.32,
+  "text": "while others value vocational diplomas, network certifications, or technical apprenticeships.",
+  "words": [
+   {
+    "w": " while",
+    "s": 144.02,
+    "e": 144.32
+   },
+   {
+    "w": " others",
+    "s": 144.32,
+    "e": 144.7
+   },
+   {
+    "w": " value",
+    "s": 144.7,
+    "e": 145.14
+   },
+   {
+    "w": " vocational",
+    "s": 145.14,
+    "e": 145.74
+   },
+   {
+    "w": " diplomas,",
+    "s": 145.74,
+    "e": 146.54
+   },
+   {
+    "w": " network",
+    "s": 147.04,
+    "e": 147.36
+   },
+   {
+    "w": " certifications,",
+    "s": 147.36,
+    "e": 148.38
+   },
+   {
+    "w": " or",
+    "s": 148.8,
+    "e": 148.92
+   },
+   {
+    "w": " technical",
+    "s": 148.92,
+    "e": 149.46
+   },
+   {
+    "w": " apprenticeships.",
+    "s": 149.46,
+    "e": 150.32
+   }
+  ]
+ },
+ {
+  "start": 152.0,
+  "end": 153.46,
+  "text": "Core fundamentals still matter.",
+  "words": [
+   {
+    "w": " Core",
+    "s": 152.0,
+    "e": 152.04
+   },
+   {
+    "w": " fundamentals",
+    "s": 152.04,
+    "e": 152.54
+   },
+   {
+    "w": " still",
+    "s": 152.54,
+    "e": 152.96
+   },
+   {
+    "w": " matter.",
+    "s": 152.96,
+    "e": 153.46
+   }
+  ]
+ },
+ {
+  "start": 154.7,
+  "end": 160.2,
+  "text": "Operating systems, networking models, and basic scripting in languages like Python.",
+  "words": [
+   {
+    "w": " Operating",
+    "s": 154.7,
+    "e": 154.7
+   },
+   {
+    "w": " systems,",
+    "s": 154.7,
+    "e": 155.26
+   },
+   {
+    "w": " networking",
+    "s": 155.86,
+    "e": 156.24
+   },
+   {
+    "w": " models,",
+    "s": 156.24,
+    "e": 156.72
+   },
+   {
+    "w": " and",
+    "s": 157.3,
+    "e": 157.42
+   },
+   {
+    "w": " basic",
+    "s": 157.42,
+    "e": 157.88
+   },
+   {
+    "w": " scripting",
+    "s": 157.88,
+    "e": 158.54
+   },
+   {
+    "w": " in",
+    "s": 158.54,
+    "e": 159.02
+   },
+   {
+    "w": " languages",
+    "s": 159.02,
+    "e": 159.34
+   },
+   {
+    "w": " like",
+    "s": 159.34,
+    "e": 159.78
+   },
+   {
+    "w": " Python.",
+    "s": 159.78,
+    "e": 160.2
+   }
+  ]
+ },
+ {
+  "start": 161.20000000000002,
+  "end": 167.4,
+  "text": "There is a common perception that defensive cyberwork requires elite cryptography mastery from day one.",
+  "words": [
+   {
+    "w": " There",
+    "s": 160.98,
+    "e": 161.38
+   },
+   {
+    "w": " is",
+    "s": 161.38,
+    "e": 161.56
+   },
+   {
+    "w": " a",
+    "s": 161.56,
+    "e": 161.72
+   },
+   {
+    "w": " common",
+    "s": 161.72,
+    "e": 162.02
+   },
+   {
+    "w": " perception",
+    "s": 162.02,
+    "e": 162.54
+   },
+   {
+    "w": " that",
+    "s": 162.54,
+    "e": 162.94
+   },
+   {
+    "w": " defensive",
+    "s": 162.94,
+    "e": 163.44
+   },
+   {
+    "w": " cyberwork",
+    "s": 163.44,
+    "e": 164.26
+   },
+   {
+    "w": " requires",
+    "s": 164.26,
+    "e": 164.82
+   },
+   {
+    "w": " elite",
+    "s": 164.82,
+    "e": 165.32
+   },
+   {
+    "w": " cryptography",
+    "s": 165.32,
+    "e": 165.94
+   },
+   {
+    "w": " mastery",
+    "s": 165.94,
+    "e": 166.52
+   },
+   {
+    "w": " from",
+    "s": 166.52,
+    "e": 166.86
+   },
+   {
+    "w": " day",
+    "s": 166.86,
+    "e": 167.04
+   },
+   {
+    "w": " one.",
+    "s": 167.04,
+    "e": 167.4
+   }
+  ]
+ },
+ {
+  "start": 167.94,
+  "end": 172.5,
+  "text": "In reality, you are building foundational literacy in system dependencies,",
+  "words": [
+   {
+    "w": " In",
+    "s": 167.94,
+    "e": 168.16
+   },
+   {
+    "w": " reality,",
+    "s": 168.16,
+    "e": 168.58
+   },
+   {
+    "w": " you",
+    "s": 169.16,
+    "e": 169.36
+   },
+   {
+    "w": " are",
+    "s": 169.36,
+    "e": 169.5
+   },
+   {
+    "w": " building",
+    "s": 169.5,
+    "e": 169.8
+   },
+   {
+    "w": " foundational",
+    "s": 169.8,
+    "e": 170.56
+   },
+   {
+    "w": " literacy",
+    "s": 170.56,
+    "e": 171.14
+   },
+   {
+    "w": " in",
+    "s": 171.14,
+    "e": 171.48
+   },
+   {
+    "w": " system",
+    "s": 171.48,
+    "e": 171.86
+   },
+   {
+    "w": " dependencies,",
+    "s": 171.86,
+    "e": 172.5
+   }
+  ]
+ },
+ {
+  "start": 173.2,
+  "end": 175.8,
+  "text": "boundary enforcement, and threat identification.",
+  "words": [
+   {
+    "w": " boundary",
+    "s": 173.2,
+    "e": 173.44
+   },
+   {
+    "w": " enforcement,",
+    "s": 173.44,
+    "e": 174.12
+   },
+   {
+    "w": " and",
+    "s": 174.52,
+    "e": 174.7
+   },
+   {
+    "w": " threat",
+    "s": 174.7,
+    "e": 174.98
+   },
+   {
+    "w": " identification.",
+    "s": 174.98,
+    "e": 175.8
+   }
+  ]
+ },
+ {
+  "start": 176.7,
+  "end": 177.9,
+  "text": "That still sounds demanding.",
+  "words": [
+   {
+    "w": " That",
+    "s": 176.7,
+    "e": 176.84
+   },
+   {
+    "w": " still",
+    "s": 176.84,
+    "e": 177.08
+   },
+   {
+    "w": " sounds",
+    "s": 177.08,
+    "e": 177.4
+   },
+   {
+    "w": " demanding.",
+    "s": 177.4,
+    "e": 177.9
+   }
+  ]
+ },
+ {
+  "start": 178.68,
+  "end": 185.52,
+  "text": "Can a beginner actually assist with these autonomous systems early on without breaking an enterprise environment?",
+  "words": [
+   {
+    "w": " Can",
+    "s": 178.68,
+    "e": 178.76
+   },
+   {
+    "w": " a",
+    "s": 178.76,
+    "e": 178.9
+   },
+   {
+    "w": " beginner",
+    "s": 178.9,
+    "e": 179.14
+   },
+   {
+    "w": " actually",
+    "s": 179.14,
+    "e": 179.76
+   },
+   {
+    "w": " assist",
+    "s": 179.76,
+    "e": 180.14
+   },
+   {
+    "w": " with",
+    "s": 180.14,
+    "e": 180.44
+   },
+   {
+    "w": " these",
+    "s": 180.44,
+    "e": 180.68
+   },
+   {
+    "w": " autonomous",
+    "s": 180.68,
+    "e": 181.18
+   },
+   {
+    "w": " systems",
+    "s": 181.18,
+    "e": 181.7
+   },
+   {
+    "w": " early",
+    "s": 181.7,
+    "e": 182.44
+   },
+   {
+    "w": " on",
+    "s": 182.44,
+    "e": 182.84
+   },
+   {
+    "w": " without",
+    "s": 182.84,
+    "e": 183.8
+   },
+   {
+    "w": " breaking",
+    "s": 183.8,
+    "e": 184.16
+   },
+   {
+    "w": " an",
+    "s": 184.16,
+    "e": 184.44
+   },
+   {
+    "w": " enterprise",
+    "s": 184.44,
+    "e": 184.94
+   },
+   {
+    "w": " environment?",
+    "s": 184.94,
+    "e": 185.52
+   }
+  ]
+ },
+ {
+  "start": 186.52,
+  "end": 190.16,
+  "text": "A beginner does not command live corporate infrastructure alone.",
+  "words": [
+   {
+    "w": " A",
+    "s": 186.32,
+    "e": 186.78
+   },
+   {
+    "w": " beginner",
+    "s": 186.78,
+    "e": 187.08
+   },
+   {
+    "w": " does",
+    "s": 187.08,
+    "e": 187.38
+   },
+   {
+    "w": " not",
+    "s": 187.38,
+    "e": 187.66
+   },
+   {
+    "w": " command",
+    "s": 187.66,
+    "e": 188.2
+   },
+   {
+    "w": " live",
+    "s": 188.2,
+    "e": 188.58
+   },
+   {
+    "w": " corporate",
+    "s": 188.58,
+    "e": 189.0
+   },
+   {
+    "w": " infrastructure",
+    "s": 189.0,
+    "e": 189.7
+   },
+   {
+    "w": " alone.",
+    "s": 189.7,
+    "e": 190.16
+   }
+  ]
+ },
+ {
+  "start": 190.9,
+  "end": 196.64,
+  "text": "Instead, you assist experienced security engineers within safe, supervised boundaries.",
+  "words": [
+   {
+    "w": " Instead,",
+    "s": 190.9,
+    "e": 191.32
+   },
+   {
+    "w": " you",
+    "s": 191.76,
+    "e": 191.98
+   },
+   {
+    "w": " assist",
+    "s": 191.98,
+    "e": 192.36
+   },
+   {
+    "w": " experienced",
+    "s": 192.36,
+    "e": 193.06
+   },
+   {
+    "w": " security",
+    "s": 193.06,
+    "e": 193.6
+   },
+   {
+    "w": " engineers",
+    "s": 193.6,
+    "e": 194.16
+   },
+   {
+    "w": " within",
+    "s": 194.16,
+    "e": 194.62
+   },
+   {
+    "w": " safe,",
+    "s": 194.62,
+    "e": 195.06
+   },
+   {
+    "w": " supervised",
+    "s": 195.54,
+    "e": 195.98
+   },
+   {
+    "w": " boundaries.",
+    "s": 195.98,
+    "e": 196.64
+   }
+  ]
+ },
+ {
+  "start": 197.72,
+  "end": 201.5,
+  "text": "While automated tools accelerate drafting or anomaly detection,",
+  "words": [
+   {
+    "w": " While",
+    "s": 197.72,
+    "e": 197.98
+   },
+   {
+    "w": " automated",
+    "s": 197.98,
+    "e": 198.42
+   },
+   {
+    "w": " tools",
+    "s": 198.42,
+    "e": 198.9
+   },
+   {
+    "w": " accelerate",
+    "s": 198.9,
+    "e": 199.62
+   },
+   {
+    "w": " drafting",
+    "s": 199.62,
+    "e": 200.14
+   },
+   {
+    "w": " or",
+    "s": 200.14,
+    "e": 200.46
+   },
+   {
+    "w": " anomaly",
+    "s": 200.46,
+    "e": 200.88
+   },
+   {
+    "w": " detection,",
+    "s": 200.88,
+    "e": 201.5
+   }
+  ]
+ },
+ {
+  "start": 202.5,
+  "end": 207.36,
+  "text": "junior analysts build evaluative judgment by checking outputs alongside senior staff.",
+  "words": [
+   {
+    "w": " junior",
+    "s": 202.5,
+    "e": 202.5
+   },
+   {
+    "w": " analysts",
+    "s": 202.5,
+    "e": 203.08
+   },
+   {
+    "w": " build",
+    "s": 203.08,
+    "e": 203.58
+   },
+   {
+    "w": " evaluative",
+    "s": 203.58,
+    "e": 204.26
+   },
+   {
+    "w": " judgment",
+    "s": 204.26,
+    "e": 204.64
+   },
+   {
+    "w": " by",
+    "s": 204.64,
+    "e": 204.98
+   },
+   {
+    "w": " checking",
+    "s": 204.98,
+    "e": 205.34
+   },
+   {
+    "w": " outputs",
+    "s": 205.34,
+    "e": 205.88
+   },
+   {
+    "w": " alongside",
+    "s": 205.88,
+    "e": 206.46
+   },
+   {
+    "w": " senior",
+    "s": 206.46,
+    "e": 206.84
+   },
+   {
+    "w": " staff.",
+    "s": 206.84,
+    "e": 207.36
+   }
+  ]
+ },
+ {
+  "start": 208.18,
+  "end": 212.08,
+  "text": "Picture this hypothetical day one scenario under senior supervision.",
+  "words": [
+   {
+    "w": " Picture",
+    "s": 208.18,
+    "e": 208.44
+   },
+   {
+    "w": " this",
+    "s": 208.44,
+    "e": 208.86
+   },
+   {
+    "w": " hypothetical",
+    "s": 208.86,
+    "e": 209.52
+   },
+   {
+    "w": " day",
+    "s": 209.52,
+    "e": 209.94
+   },
+   {
+    "w": " one",
+    "s": 209.94,
+    "e": 210.26
+   },
+   {
+    "w": " scenario",
+    "s": 210.26,
+    "e": 210.8
+   },
+   {
+    "w": " under",
+    "s": 210.8,
+    "e": 211.18
+   },
+   {
+    "w": " senior",
+    "s": 211.18,
+    "e": 211.5
+   },
+   {
+    "w": " supervision.",
+    "s": 211.5,
+    "e": 212.08
+   }
+  ]
+ },
+ {
+  "start": 212.08,
+  "end": 218.34,
+  "text": "An automated defensive script flags a burst of abnormal traffic during an overnight run",
+  "words": [
+   {
+    "w": " An",
+    "s": 212.08,
+    "e": 213.22
+   },
+   {
+    "w": " automated",
+    "s": 213.22,
+    "e": 213.64
+   },
+   {
+    "w": " defensive",
+    "s": 213.64,
+    "e": 214.14
+   },
+   {
+    "w": " script",
+    "s": 214.14,
+    "e": 214.6
+   },
+   {
+    "w": " flags",
+    "s": 214.6,
+    "e": 214.92
+   },
+   {
+    "w": " a",
+    "s": 214.92,
+    "e": 215.14
+   },
+   {
+    "w": " burst",
+    "s": 215.14,
+    "e": 215.34
+   },
+   {
+    "w": " of",
+    "s": 215.34,
+    "e": 215.56
+   },
+   {
+    "w": " abnormal",
+    "s": 215.56,
+    "e": 216.04
+   },
+   {
+    "w": " traffic",
+    "s": 216.04,
+    "e": 216.68
+   },
+   {
+    "w": " during",
+    "s": 216.68,
+    "e": 217.36
+   },
+   {
+    "w": " an",
+    "s": 217.36,
+    "e": 217.54
+   },
+   {
+    "w": " overnight",
+    "s": 217.54,
+    "e": 217.98
+   },
+   {
+    "w": " run",
+    "s": 217.98,
+    "e": 218.34
+   }
+  ]
+ },
+ {
+  "start": 218.34,
+  "end": 221.94,
+  "text": "and isolates the activity in a sandbox staging environment.",
+  "words": [
+   {
+    "w": " and",
+    "s": 218.34,
+    "e": 218.54
+   },
+   {
+    "w": " isolates",
+    "s": 218.54,
+    "e": 219.14
+   },
+   {
+    "w": " the",
+    "s": 219.14,
+    "e": 219.32
+   },
+   {
+    "w": " activity",
+    "s": 219.32,
+    "e": 219.76
+   },
+   {
+    "w": " in",
+    "s": 219.76,
+    "e": 220.08
+   },
+   {
+    "w": " a",
+    "s": 220.08,
+    "e": 220.22
+   },
+   {
+    "w": " sandbox",
+    "s": 220.22,
+    "e": 220.74
+   },
+   {
+    "w": " staging",
+    "s": 220.74,
+    "e": 221.42
+   },
+   {
+    "w": " environment.",
+    "s": 221.42,
+    "e": 221.94
+   }
+  ]
+ },
+ {
+  "start": 223.18,
+  "end": 225.92,
+  "text": "Your task is not redesigning the company firewall.",
+  "words": [
+   {
+    "w": " Your",
+    "s": 223.18,
+    "e": 223.38
+   },
+   {
+    "w": " task",
+    "s": 223.38,
+    "e": 223.78
+   },
+   {
+    "w": " is",
+    "s": 223.78,
+    "e": 224.0
+   },
+   {
+    "w": " not",
+    "s": 224.0,
+    "e": 224.2
+   },
+   {
+    "w": " redesigning",
+    "s": 224.2,
+    "e": 224.88
+   },
+   {
+    "w": " the",
+    "s": 224.88,
+    "e": 225.0
+   },
+   {
+    "w": " company",
+    "s": 225.0,
+    "e": 225.32
+   },
+   {
+    "w": " firewall.",
+    "s": 225.32,
+    "e": 225.92
+   }
+  ]
+ },
+ {
+  "start": 226.9,
+  "end": 232.48,
+  "text": "Under the guidance of a senior analyst, you inspect the agent's summary against synthetic telemetry,",
+  "words": [
+   {
+    "w": " Under",
+    "s": 226.9,
+    "e": 227.1
+   },
+   {
+    "w": " the",
+    "s": 227.1,
+    "e": 227.24
+   },
+   {
+    "w": " guidance",
+    "s": 227.24,
+    "e": 227.56
+   },
+   {
+    "w": " of",
+    "s": 227.56,
+    "e": 227.76
+   },
+   {
+    "w": " a",
+    "s": 227.76,
+    "e": 227.92
+   },
+   {
+    "w": " senior",
+    "s": 227.92,
+    "e": 228.14
+   },
+   {
+    "w": " analyst,",
+    "s": 228.14,
+    "e": 228.7
+   },
+   {
+    "w": " you",
+    "s": 229.38,
+    "e": 229.42
+   },
+   {
+    "w": " inspect",
+    "s": 229.42,
+    "e": 229.84
+   },
+   {
+    "w": " the",
+    "s": 229.84,
+    "e": 230.12
+   },
+   {
+    "w": " agent's",
+    "s": 230.12,
+    "e": 230.58
+   },
+   {
+    "w": " summary",
+    "s": 230.58,
+    "e": 230.92
+   },
+   {
+    "w": " against",
+    "s": 230.92,
+    "e": 231.28
+   },
+   {
+    "w": " synthetic",
+    "s": 231.28,
+    "e": 231.78
+   },
+   {
+    "w": " telemetry,",
+    "s": 231.78,
+    "e": 232.48
+   }
+  ]
+ },
+ {
+  "start": 233.06,
+  "end": 237.5,
+  "text": "verify that the alert was not a false positive, and document the anomaly.",
+  "words": [
+   {
+    "w": " verify",
+    "s": 233.06,
+    "e": 233.44
+   },
+   {
+    "w": " that",
+    "s": 233.44,
+    "e": 233.86
+   },
+   {
+    "w": " the",
+    "s": 233.86,
+    "e": 234.0
+   },
+   {
+    "w": " alert",
+    "s": 234.0,
+    "e": 234.26
+   },
+   {
+    "w": " was",
+    "s": 234.26,
+    "e": 234.46
+   },
+   {
+    "w": " not",
+    "s": 234.46,
+    "e": 234.68
+   },
+   {
+    "w": " a",
+    "s": 234.68,
+    "e": 234.84
+   },
+   {
+    "w": " false",
+    "s": 234.84,
+    "e": 235.06
+   },
+   {
+    "w": " positive,",
+    "s": 235.06,
+    "e": 235.72
+   },
+   {
+    "w": " and",
+    "s": 236.14,
+    "e": 236.42
+   },
+   {
+    "w": " document",
+    "s": 236.42,
+    "e": 236.9
+   },
+   {
+    "w": " the",
+    "s": 236.9,
+    "e": 237.1
+   },
+   {
+    "w": " anomaly.",
+    "s": 237.1,
+    "e": 237.5
+   }
+  ]
+ },
+ {
+  "start": 238.5,
+  "end": 243.28,
+  "text": "If agentic tools keep evolving, do these skills become obsolete quickly?",
+  "words": [
+   {
+    "w": " If",
+    "s": 238.13,
+    "e": 238.54
+   },
+   {
+    "w": " agentic",
+    "s": 238.54,
+    "e": 239.14
+   },
+   {
+    "w": " tools",
+    "s": 239.14,
+    "e": 239.46
+   },
+   {
+    "w": " keep",
+    "s": 239.46,
+    "e": 239.84
+   },
+   {
+    "w": " evolving,",
+    "s": 239.84,
+    "e": 240.42
+   },
+   {
+    "w": " do",
+    "s": 241.06,
+    "e": 241.16
+   },
+   {
+    "w": " these",
+    "s": 241.16,
+    "e": 241.42
+   },
+   {
+    "w": " skills",
+    "s": 241.42,
+    "e": 241.76
+   },
+   {
+    "w": " become",
+    "s": 241.76,
+    "e": 242.16
+   },
+   {
+    "w": " obsolete",
+    "s": 242.16,
+    "e": 242.74
+   },
+   {
+    "w": " quickly?",
+    "s": 242.74,
+    "e": 243.28
+   }
+  ]
+ },
+ {
+  "start": 244.26,
+  "end": 249.56,
+  "text": "The underlying tools will certainly change, but the core analytical skills transfer.",
+  "words": [
+   {
+    "w": " The",
+    "s": 244.26,
+    "e": 244.4
+   },
+   {
+    "w": " underlying",
+    "s": 244.4,
+    "e": 244.92
+   },
+   {
+    "w": " tools",
+    "s": 244.92,
+    "e": 245.38
+   },
+   {
+    "w": " will",
+    "s": 245.38,
+    "e": 245.68
+   },
+   {
+    "w": " certainly",
+    "s": 245.68,
+    "e": 246.1
+   },
+   {
+    "w": " change,",
+    "s": 246.1,
+    "e": 246.64
+   },
+   {
+    "w": " but",
+    "s": 246.96,
+    "e": 247.18
+   },
+   {
+    "w": " the",
+    "s": 247.18,
+    "e": 247.34
+   },
+   {
+    "w": " core",
+    "s": 247.34,
+    "e": 247.68
+   },
+   {
+    "w": " analytical",
+    "s": 247.68,
+    "e": 248.14
+   },
+   {
+    "w": " skills",
+    "s": 248.14,
+    "e": 248.84
+   },
+   {
+    "w": " transfer.",
+    "s": 248.84,
+    "e": 249.56
+   }
+  ]
+ },
+ {
+  "start": 250.36,
+  "end": 256.24,
+  "text": "Learning how to trace network logic, question automated outputs, verify data provenance,",
+  "words": [
+   {
+    "w": " Learning",
+    "s": 250.36,
+    "e": 250.56
+   },
+   {
+    "w": " how",
+    "s": 250.56,
+    "e": 250.86
+   },
+   {
+    "w": " to",
+    "s": 250.86,
+    "e": 250.98
+   },
+   {
+    "w": " trace",
+    "s": 250.98,
+    "e": 251.28
+   },
+   {
+    "w": " network",
+    "s": 251.28,
+    "e": 251.66
+   },
+   {
+    "w": " logic,",
+    "s": 251.66,
+    "e": 252.18
+   },
+   {
+    "w": " question",
+    "s": 252.7,
+    "e": 252.98
+   },
+   {
+    "w": " automated",
+    "s": 252.98,
+    "e": 253.52
+   },
+   {
+    "w": " outputs,",
+    "s": 253.52,
+    "e": 254.22
+   },
+   {
+    "w": " verify",
+    "s": 254.76,
+    "e": 255.18
+   },
+   {
+    "w": " data",
+    "s": 255.18,
+    "e": 255.54
+   },
+   {
+    "w": " provenance,",
+    "s": 255.54,
+    "e": 256.24
+   }
+  ]
+ },
+ {
+  "start": 256.4,
+  "end": 263.48,
+  "text": "and calibrate trust when software makes an error remains relevant regardless of which model an organization deploys.",
+  "words": [
+   {
+    "w": " and",
+    "s": 256.4,
+    "e": 256.5
+   },
+   {
+    "w": " calibrate",
+    "s": 256.5,
+    "e": 257.1
+   },
+   {
+    "w": " trust",
+    "s": 257.1,
+    "e": 257.46
+   },
+   {
+    "w": " when",
+    "s": 257.46,
+    "e": 257.78
+   },
+   {
+    "w": " software",
+    "s": 257.78,
+    "e": 258.18
+   },
+   {
+    "w": " makes",
+    "s": 258.18,
+    "e": 258.44
+   },
+   {
+    "w": " an",
+    "s": 258.44,
+    "e": 258.66
+   },
+   {
+    "w": " error",
+    "s": 258.66,
+    "e": 259.04
+   },
+   {
+    "w": " remains",
+    "s": 259.04,
+    "e": 259.5
+   },
+   {
+    "w": " relevant",
+    "s": 259.5,
+    "e": 260.1
+   },
+   {
+    "w": " regardless",
+    "s": 260.1,
+    "e": 260.7
+   },
+   {
+    "w": " of",
+    "s": 260.7,
+    "e": 261.14
+   },
+   {
+    "w": " which",
+    "s": 261.14,
+    "e": 261.4
+   },
+   {
+    "w": " model",
+    "s": 261.4,
+    "e": 261.72
+   },
+   {
+    "w": " an",
+    "s": 261.72,
+    "e": 262.02
+   },
+   {
+    "w": " organization",
+    "s": 262.02,
+    "e": 262.5
+   },
+   {
+    "w": " deploys.",
+    "s": 262.5,
+    "e": 263.48
+   }
+  ]
+ },
+ {
+  "start": 264.48,
+  "end": 268.92,
+  "text": "Exactly. You are developing systemic thinking and verification skills",
+  "words": [
+   {
+    "w": " Exactly.",
+    "s": 264.28,
+    "e": 264.7
+   },
+   {
+    "w": " You",
+    "s": 265.5,
+    "e": 265.62
+   },
+   {
+    "w": " are",
+    "s": 265.62,
+    "e": 265.78
+   },
+   {
+    "w": " developing",
+    "s": 265.78,
+    "e": 266.26
+   },
+   {
+    "w": " systemic",
+    "s": 266.26,
+    "e": 266.76
+   },
+   {
+    "w": " thinking",
+    "s": 266.76,
+    "e": 267.32
+   },
+   {
+    "w": " and",
+    "s": 267.32,
+    "e": 267.64
+   },
+   {
+    "w": " verification",
+    "s": 267.64,
+    "e": 268.12
+   },
+   {
+    "w": " skills",
+    "s": 268.12,
+    "e": 268.92
+   }
+  ]
+ },
+ {
+  "start": 268.92,
+  "end": 272.32,
+  "text": "rather than locking yourself into a single vendor tool.",
+  "words": [
+   {
+    "w": " rather",
+    "s": 268.92,
+    "e": 269.58
+   },
+   {
+    "w": " than",
+    "s": 269.58,
+    "e": 269.94
+   },
+   {
+    "w": " locking",
+    "s": 269.94,
+    "e": 270.2
+   },
+   {
+    "w": " yourself",
+    "s": 270.2,
+    "e": 270.68
+   },
+   {
+    "w": " into",
+    "s": 270.68,
+    "e": 271.02
+   },
+   {
+    "w": " a",
+    "s": 271.02,
+    "e": 271.22
+   },
+   {
+    "w": " single",
+    "s": 271.22,
+    "e": 271.52
+   },
+   {
+    "w": " vendor",
+    "s": 271.52,
+    "e": 271.82
+   },
+   {
+    "w": " tool.",
+    "s": 271.82,
+    "e": 272.32
+   }
+  ]
+ },
+ {
+  "start": 273.34,
+  "end": 275.42,
+  "text": "That brings us to your practical field mission,",
+  "words": [
+   {
+    "w": " That",
+    "s": 273.34,
+    "e": 273.34
+   },
+   {
+    "w": " brings",
+    "s": 273.34,
+    "e": 273.58
+   },
+   {
+    "w": " us",
+    "s": 273.58,
+    "e": 273.88
+   },
+   {
+    "w": " to",
+    "s": 273.88,
+    "e": 274.1
+   },
+   {
+    "w": " your",
+    "s": 274.1,
+    "e": 274.24
+   },
+   {
+    "w": " practical",
+    "s": 274.24,
+    "e": 274.58
+   },
+   {
+    "w": " field",
+    "s": 274.58,
+    "e": 275.0
+   },
+   {
+    "w": " mission,",
+    "s": 275.0,
+    "e": 275.42
+   }
+  ]
+ },
+ {
+  "start": 276.02,
+  "end": 280.22,
+  "text": "which you can complete entirely offline without touching private data.",
+  "words": [
+   {
+    "w": " which",
+    "s": 276.02,
+    "e": 276.26
+   },
+   {
+    "w": " you",
+    "s": 276.26,
+    "e": 276.42
+   },
+   {
+    "w": " can",
+    "s": 276.42,
+    "e": 276.58
+   },
+   {
+    "w": " complete",
+    "s": 276.58,
+    "e": 277.08
+   },
+   {
+    "w": " entirely",
+    "s": 277.08,
+    "e": 277.74
+   },
+   {
+    "w": " offline",
+    "s": 277.74,
+    "e": 278.36
+   },
+   {
+    "w": " without",
+    "s": 278.36,
+    "e": 279.08
+   },
+   {
+    "w": " touching",
+    "s": 279.08,
+    "e": 279.44
+   },
+   {
+    "w": " private",
+    "s": 279.44,
+    "e": 279.76
+   },
+   {
+    "w": " data.",
+    "s": 279.76,
+    "e": 280.22
+   }
+  ]
+ },
+ {
+  "start": 280.22,
+  "end": 288.36,
+  "text": "Step 1. Download an open source, non-sensitive sample data set of mock network traffic logs",
+  "words": [
+   {
+    "w": " Step",
+    "s": 280.22,
+    "e": 281.12
+   },
+   {
+    "w": " 1.",
+    "s": 281.12,
+    "e": 281.48
+   },
+   {
+    "w": " Download",
+    "s": 282.2,
+    "e": 282.42
+   },
+   {
+    "w": " an",
+    "s": 282.42,
+    "e": 282.86
+   },
+   {
+    "w": " open",
+    "s": 282.86,
+    "e": 283.18
+   },
+   {
+    "w": " source,",
+    "s": 283.18,
+    "e": 283.64
+   },
+   {
+    "w": " non",
+    "s": 284.06,
+    "e": 284.26
+   },
+   {
+    "w": "-sensitive",
+    "s": 284.26,
+    "e": 284.7
+   },
+   {
+    "w": " sample",
+    "s": 284.7,
+    "e": 285.24
+   },
+   {
+    "w": " data",
+    "s": 285.24,
+    "e": 285.5
+   },
+   {
+    "w": " set",
+    "s": 285.5,
+    "e": 285.96
+   },
+   {
+    "w": " of",
+    "s": 285.96,
+    "e": 286.7
+   },
+   {
+    "w": " mock",
+    "s": 286.7,
+    "e": 286.88
+   },
+   {
+    "w": " network",
+    "s": 286.88,
+    "e": 287.38
+   },
+   {
+    "w": " traffic",
+    "s": 287.38,
+    "e": 287.94
+   },
+   {
+    "w": " logs",
+    "s": 287.94,
+    "e": 288.36
+   }
+  ]
+ },
+ {
+  "start": 288.36,
+  "end": 291.42,
+  "text": "from an authorized educational repository.",
+  "words": [
+   {
+    "w": " from",
+    "s": 288.36,
+    "e": 289.0
+   },
+   {
+    "w": " an",
+    "s": 289.0,
+    "e": 289.24
+   },
+   {
+    "w": " authorized",
+    "s": 289.24,
+    "e": 289.76
+   },
+   {
+    "w": " educational",
+    "s": 289.76,
+    "e": 290.54
+   },
+   {
+    "w": " repository.",
+    "s": 290.54,
+    "e": 291.42
+   }
+  ]
+ },
+ {
+  "start": 292.28,
+  "end": 300.98,
+  "text": "Step 2. Write a simple local rule or sandbox script to inspect those offline logs for unusual patterns,",
+  "words": [
+   {
+    "w": " Step",
+    "s": 292.28,
+    "e": 292.54
+   },
+   {
+    "w": " 2.",
+    "s": 292.54,
+    "e": 292.92
+   },
+   {
+    "w": " Write",
+    "s": 293.98,
+    "e": 294.04
+   },
+   {
+    "w": " a",
+    "s": 294.04,
+    "e": 294.26
+   },
+   {
+    "w": " simple",
+    "s": 294.26,
+    "e": 294.64
+   },
+   {
+    "w": " local",
+    "s": 294.64,
+    "e": 294.92
+   },
+   {
+    "w": " rule",
+    "s": 294.92,
+    "e": 295.44
+   },
+   {
+    "w": " or",
+    "s": 295.44,
+    "e": 295.9
+   },
+   {
+    "w": " sandbox",
+    "s": 295.9,
+    "e": 296.4
+   },
+   {
+    "w": " script",
+    "s": 296.4,
+    "e": 296.84
+   },
+   {
+    "w": " to",
+    "s": 296.84,
+    "e": 297.34
+   },
+   {
+    "w": " inspect",
+    "s": 297.34,
+    "e": 297.86
+   },
+   {
+    "w": " those",
+    "s": 297.86,
+    "e": 298.28
+   },
+   {
+    "w": " offline",
+    "s": 298.28,
+    "e": 298.78
+   },
+   {
+    "w": " logs",
+    "s": 298.78,
+    "e": 299.18
+   },
+   {
+    "w": " for",
+    "s": 299.18,
+    "e": 299.76
+   },
+   {
+    "w": " unusual",
+    "s": 299.76,
+    "e": 300.32
+   },
+   {
+    "w": " patterns,",
+    "s": 300.32,
+    "e": 300.98
+   }
+  ]
+ },
+ {
+  "start": 301.38,
+  "end": 306.44,
+  "text": "such as multiple failed authentication attempts within a three-minute window.",
+  "words": [
+   {
+    "w": " such",
+    "s": 301.38,
+    "e": 301.62
+   },
+   {
+    "w": " as",
+    "s": 301.62,
+    "e": 302.08
+   },
+   {
+    "w": " multiple",
+    "s": 302.08,
+    "e": 302.72
+   },
+   {
+    "w": " failed",
+    "s": 302.72,
+    "e": 303.26
+   },
+   {
+    "w": " authentication",
+    "s": 303.26,
+    "e": 303.92
+   },
+   {
+    "w": " attempts",
+    "s": 303.92,
+    "e": 304.68
+   },
+   {
+    "w": " within",
+    "s": 304.68,
+    "e": 305.34
+   },
+   {
+    "w": " a",
+    "s": 305.34,
+    "e": 305.62
+   },
+   {
+    "w": " three",
+    "s": 305.62,
+    "e": 305.84
+   },
+   {
+    "w": "-minute",
+    "s": 305.84,
+    "e": 306.0
+   },
+   {
+    "w": " window.",
+    "s": 306.0,
+    "e": 306.44
+   }
+  ]
+ },
+ {
+  "start": 307.74,
+  "end": 310.96,
+  "text": "Write an escalation policy in a document.",
+  "words": [
+   {
+    "w": " Write",
+    "s": 307.74,
+    "e": 308.46
+   },
+   {
+    "w": " an",
+    "s": 308.46,
+    "e": 308.74
+   },
+   {
+    "w": " escalation",
+    "s": 308.74,
+    "e": 309.22
+   },
+   {
+    "w": " policy",
+    "s": 309.22,
+    "e": 310.02
+   },
+   {
+    "w": " in",
+    "s": 310.02,
+    "e": 310.36
+   },
+   {
+    "w": " a",
+    "s": 310.36,
+    "e": 310.5
+   },
+   {
+    "w": " document.",
+    "s": 310.5,
+    "e": 310.96
+   }
+  ]
+ },
+ {
+  "start": 311.88,
+  "end": 315.8,
+  "text": "Define the exact boundary where an automated system must pause,",
+  "words": [
+   {
+    "w": " Define",
+    "s": 311.88,
+    "e": 312.28
+   },
+   {
+    "w": " the",
+    "s": 312.28,
+    "e": 312.46
+   },
+   {
+    "w": " exact",
+    "s": 312.46,
+    "e": 312.92
+   },
+   {
+    "w": " boundary",
+    "s": 312.92,
+    "e": 313.5
+   },
+   {
+    "w": " where",
+    "s": 313.5,
+    "e": 313.88
+   },
+   {
+    "w": " an",
+    "s": 313.88,
+    "e": 314.04
+   },
+   {
+    "w": " automated",
+    "s": 314.04,
+    "e": 314.52
+   },
+   {
+    "w": " system",
+    "s": 314.52,
+    "e": 315.04
+   },
+   {
+    "w": " must",
+    "s": 315.04,
+    "e": 315.28
+   },
+   {
+    "w": " pause,",
+    "s": 315.28,
+    "e": 315.8
+   }
+  ]
+ },
+ {
+  "start": 316.32,
+  "end": 322.28,
+  "text": "generate an audit trail, and request human confirmation before applying any simulated quarantine.",
+  "words": [
+   {
+    "w": " generate",
+    "s": 316.32,
+    "e": 316.64
+   },
+   {
+    "w": " an",
+    "s": 316.64,
+    "e": 316.86
+   },
+   {
+    "w": " audit",
+    "s": 316.86,
+    "e": 317.16
+   },
+   {
+    "w": " trail,",
+    "s": 317.16,
+    "e": 317.5
+   },
+   {
+    "w": " and",
+    "s": 317.78,
+    "e": 317.9
+   },
+   {
+    "w": " request",
+    "s": 317.9,
+    "e": 318.26
+   },
+   {
+    "w": " human",
+    "s": 318.26,
+    "e": 318.66
+   },
+   {
+    "w": " confirmation",
+    "s": 318.66,
+    "e": 319.4
+   },
+   {
+    "w": " before",
+    "s": 319.4,
+    "e": 320.0
+   },
+   {
+    "w": " applying",
+    "s": 320.0,
+    "e": 320.56
+   },
+   {
+    "w": " any",
+    "s": 320.56,
+    "e": 320.98
+   },
+   {
+    "w": " simulated",
+    "s": 320.98,
+    "e": 321.62
+   },
+   {
+    "w": " quarantine.",
+    "s": 321.62,
+    "e": 322.28
+   }
+  ]
+ },
+ {
+  "start": 323.5,
+  "end": 326.9,
+  "text": "Document your reasoning to practice explaining technical trade-offs.",
+  "words": [
+   {
+    "w": " Document",
+    "s": 323.5,
+    "e": 323.64
+   },
+   {
+    "w": " your",
+    "s": 323.64,
+    "e": 324.02
+   },
+   {
+    "w": " reasoning",
+    "s": 324.02,
+    "e": 324.36
+   },
+   {
+    "w": " to",
+    "s": 324.36,
+    "e": 324.74
+   },
+   {
+    "w": " practice",
+    "s": 324.74,
+    "e": 325.1
+   },
+   {
+    "w": " explaining",
+    "s": 325.1,
+    "e": 325.78
+   },
+   {
+    "w": " technical",
+    "s": 325.78,
+    "e": 326.32
+   },
+   {
+    "w": " trade",
+    "s": 326.32,
+    "e": 326.68
+   },
+   {
+    "w": "-offs.",
+    "s": 326.68,
+    "e": 326.9
+   }
+  ]
+ },
+ {
+  "start": 327.88,
+  "end": 330.04,
+  "text": "That is today from Career Moonshots.",
+  "words": [
+   {
+    "w": " That",
+    "s": 327.88,
+    "e": 328.36
+   },
+   {
+    "w": " is",
+    "s": 328.36,
+    "e": 328.5
+   },
+   {
+    "w": " today",
+    "s": 328.5,
+    "e": 328.84
+   },
+   {
+    "w": " from",
+    "s": 328.84,
+    "e": 329.12
+   },
+   {
+    "w": " Career",
+    "s": 329.12,
+    "e": 329.5
+   },
+   {
+    "w": " Moonshots.",
+    "s": 329.5,
+    "e": 330.04
+   }
+  ]
+ },
+ {
+  "start": 330.72,
+  "end": 334.72,
+  "text": "Before you go, pick one tiny experiment from this episode and try it this week.",
+  "words": [
+   {
+    "w": " Before",
+    "s": 330.72,
+    "e": 330.96
+   },
+   {
+    "w": " you",
+    "s": 330.96,
+    "e": 331.16
+   },
+   {
+    "w": " go,",
+    "s": 331.16,
+    "e": 331.42
+   },
+   {
+    "w": " pick",
+    "s": 331.56,
+    "e": 331.64
+   },
+   {
+    "w": " one",
+    "s": 331.64,
+    "e": 331.92
+   },
+   {
+    "w": " tiny",
+    "s": 331.92,
+    "e": 332.16
+   },
+   {
+    "w": " experiment",
+    "s": 332.16,
+    "e": 332.62
+   },
+   {
+    "w": " from",
+    "s": 332.62,
+    "e": 332.92
+   },
+   {
+    "w": " this",
+    "s": 332.92,
+    "e": 333.1
+   },
+   {
+    "w": " episode",
+    "s": 333.1,
+    "e": 333.52
+   },
+   {
+    "w": " and",
+    "s": 333.52,
+    "e": 333.76
+   },
+   {
+    "w": " try",
+    "s": 333.76,
+    "e": 334.0
+   },
+   {
+    "w": " it",
+    "s": 334.0,
+    "e": 334.18
+   },
+   {
+    "w": " this",
+    "s": 334.18,
+    "e": 334.4
+   },
+   {
+    "w": " week.",
+    "s": 334.4,
+    "e": 334.72
+   }
+  ]
+ },
+ {
+  "start": 334.72,
+  "end": 339.12,
+  "text": "Your future career gets clearer one curious step at a time.",
+  "words": [
+   {
+    "w": " Your",
+    "s": 334.72,
+    "e": 335.68
+   },
+   {
+    "w": " future",
+    "s": 335.68,
+    "e": 336.0
+   },
+   {
+    "w": " career",
+    "s": 336.0,
+    "e": 336.42
+   },
+   {
+    "w": " gets",
+    "s": 336.42,
+    "e": 336.84
+   },
+   {
+    "w": " clearer",
+    "s": 336.84,
+    "e": 337.26
+   },
+   {
+    "w": " one",
+    "s": 337.26,
+    "e": 337.78
+   },
+   {
+    "w": " curious",
+    "s": 337.78,
+    "e": 338.18
+   },
+   {
+    "w": " step",
+    "s": 338.18,
+    "e": 338.48
+   },
+   {
+    "w": " at",
+    "s": 338.48,
+    "e": 338.66
+   },
+   {
+    "w": " a",
+    "s": 338.66,
+    "e": 338.8
+   },
+   {
+    "w": " time.",
+    "s": 338.8,
+    "e": 339.12
+   }
+  ]
+ }
+]

@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+.tools/
+out/
+analysis/
+*.mp4
+*.mov
+__pycache__/
